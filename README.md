@@ -2,7 +2,7 @@
 
 Skin detection app powered by AI. (Summer 2023 hackathon submission)
 
-Supports common skin conditions and recognizes different skin colours and types
+Supports common skin conditions and recognizes various skin colours and types
 
 
 
