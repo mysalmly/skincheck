@@ -6,8 +6,6 @@ Supports common skin conditions and recognizes various skin colours and types
 
 
 
-
-
 ## How to run
 
 #### Download project (.aia file)
@@ -16,3 +14,6 @@ Supports common skin conditions and recognizes various skin colours and types
 
 #### After importing the project click "connect" and run either on an android device or through an emulator
 
+
+
+Thank you to my teammates (Sebastian, Lorenzo, Yadira and mentor Ericka) for making this with me!!!
